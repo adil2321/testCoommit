@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
         <div>
-          kjkjk
+          k
         </div>
       </header>
     </div>
