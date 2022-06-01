@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
         <div>
-          11111111ghgh
+          1111111
         </div>
       </header>
     </div>
